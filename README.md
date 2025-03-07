@@ -1,3 +1,9 @@
+
+### BrainTree's Analytics Code Challenge
+
+This repository showcases my version on how I solved the BrainTree's Analytic Code Challenge. Note: It is important to highlight that I did a bit of manipulation to the database to handle NULL values (which I did not include in this repo), thus I developed particular queries to answer the challenge's questions based on my database. 
+
+The RDBMS software that I used was SQLite3 with an on premise database.
 ### Introduction
 
 Welcome to the Braintree Analytics Code Challenge!
